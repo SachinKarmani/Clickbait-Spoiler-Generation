@@ -58,10 +58,6 @@ To run this project, clone the repository and install the required dependencies 
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you have suggestions for improvements or find any bugs.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 
 Special thanks to Professor Olga Vechtomova and TA Gaurav Sahu for their guidance and support throughout this project.

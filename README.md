@@ -1,6 +1,6 @@
 # Clickbait Spoiler Classification and Generation
 
-This repository contains the code and resources for the project **"Clickbait Spoiler Classification and Generation,"** which aims to classify spoiler types and generate spoiler texts for clickbait articles. The project builds on the tasks presented at SemEval 2023 and leverages state-of-the-art transformer models such as BERT, RoBERTa, and BART.
+This repository contains the code and resources for the project **"Clickbait Spoiler Classification and Generation,"** which aims to classify spoiler types and generate spoiler texts for clickbait articles. The project builds on the tasks presented at SemEval 2023 and leverages state-of-the-art transformer LLMs such as BERT, RoBERTa, and BART.
 
 ## Project Overview
 
@@ -10,7 +10,7 @@ Clickbait articles are designed to capture user attention with sensational headl
 
 - **Spoiler Type Classification:** Classifies spoilers into different types: phrase, passage, or multi-line.
 - **Spoiler Generation:** Extracts or generates spoiler texts from clickbait articles.
-- **Utilizes Pre-trained Transformer Models:** Fine-tunes models such as BERT, RoBERTa, and BART for enhanced performance.
+- **Utilizes Pre-trained Transformer Models:** Fine-tunes LLM models such as BERT, RoBERTa, and BART for enhanced performance.
 - **Evaluation Metrics:** Uses F1-score, ROUGE, and METEOR metrics to evaluate model performance.
 
 ## Methodology
